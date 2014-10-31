@@ -4,7 +4,7 @@ ti-htmlparser2
 [![Dependencies](https://david-dm.org/yuchi/ti-htmlparser2/status.svg?style=flat-square)](https://david-dm.org/yuchi/ti-htmlparser2#info=dependencies)
 [![Dev Dependencies](https://david-dm.org/yuchi/ti-htmlparser2/dev-status.svg?style=flat-square)](https://david-dm.org/yuchi/ti-htmlparser2#info=devDependencies)
 
-Titanium.Network.HTTPClient with less suck!
+Forgiving HTML/XML parser for Titanium SDK
 
 This is a [titaniumified][ti] version of [htmlparser2][hp2]. This is built using [`grunt-titaniumifier`][gti].
 
