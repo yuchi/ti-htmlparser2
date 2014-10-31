@@ -1,0 +1,36 @@
+{
+  "name": "ti-htmlparser2",
+  "guid": "f5d3265a-8d1d-7eee-72c6-97faa3c0675e",
+  "version": "3.8.0",
+  "description": "",
+  "author": {
+    "name": "Pier Paolo Ramon",
+    "email": "pierpaolo.ramon@smc.it",
+    "url": "https://github.com/yuchi"
+  },
+  "license": "LGPL-2.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smclab/ti-superagent.git"
+  },
+  "engines": {
+    "titaniumsdk": ">= 3.3.0.GA"
+  },
+  "main": "index.js",
+  "keywords": [
+    "titanium",
+    "titaniumifier",
+    "htmlparser",
+    "html",
+    "parser"
+  ],
+  "browser": {
+    "htmlparser2": "htmlparser2"
+  },
+  "dependencies": {
+    "htmlparser2": "~3.8.0"
+  },
+  "devDependencies": {
+    "grunt-titaniumifier": "^0.2.5"
+  }
+}
